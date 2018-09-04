@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1522167932 source:d:\c++\matrix\main.cpp
+	"Vector.h"
+	<iostream>
+
+1522167932 d:\c++\matrix\include\vector.h
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
+1522158823 source:d:\c++\matrix\src\vector.cpp
+	"Vector.h"
+
+1522167932 source:d:\c++\matrix 沈宝印_2015302112&庞宏俐_2015302111\main.cpp
+	"Vector.h"
+	<iostream>
+
+1527241097 d:\c++\matrix 沈宝印_2015302112&庞宏俐_2015302111\include\vector.h
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
+1522158823 source:d:\c++\matrix 沈宝印_2015302112&庞宏俐_2015302111\src\vector.cpp
+	"Vector.h"
+
+1522167932 source:c:\users\a123\desktop\matrix 沈宝印_2015302112&庞宏俐_2015302111\main.cpp
+	"Vector.h"
+	<iostream>
+
+1527241097 c:\users\a123\desktop\matrix 沈宝印_2015302112&庞宏俐_2015302111\include\vector.h
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
+1522158823 source:c:\users\a123\desktop\matrix 沈宝印_2015302112&庞宏俐_2015302111\src\vector.cpp
+	"Vector.h"
+
+1522158823 source:c:\users\a123\desktop\数据结构\数据结构2018作业\数据结构作业1_matrix\matrix_沈宝印_2015302112_庞宏俐_2015302111\src\vector.cpp
+	"Vector.h"
+
+1527241097 c:\users\a123\desktop\数据结构\数据结构2018作业\数据结构作业1_matrix\matrix_沈宝印_2015302112_庞宏俐_2015302111\include\vector.h
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
